@@ -348,7 +348,7 @@ Resources:
     Properties:
       HostedZoneName: !Ref HostedZone
       RecordSets:
-        - Name: "rubyxjr.me"
+        - Name: "dev.rubyxjr.me"
           Type: A
           TTL: 60
           ResourceRecords:
